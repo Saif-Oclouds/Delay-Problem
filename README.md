@@ -1,0 +1,1 @@
+For delay, I have implemented a helper function name "delayFunction" and then call in the delayedPromisChain.
